@@ -8,7 +8,7 @@ I'm a Senior at the University of Illinois Urbana-Champaign, studying **Statisti
 
 ## 🔭 Featured Project
 
-### [Mol-InteractionML](https://github.com/rverma6/GNN-Based-Molecule-Interaction-Predictor)
+### [Mol-InteractionML](https://github.com/rverma6/drug-interaction-gnn)
 
 A **Graph Neural Network (GNN)** application designed to predict molecular properties and interactions, accelerating drug discovery processes. By integrating chemistry domain knowledge with advanced deep learning architectures, this project aims to efficiently identify potential drug candidates.
 
