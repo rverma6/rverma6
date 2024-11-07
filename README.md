@@ -6,7 +6,7 @@ I'm a Senior at the University of Illinois Urbana-Champaign, studying **Statisti
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Featured Project
 
 ### [Mol-InteractionML](https://github.com/rayvaverma/GNN-Based-Molecule-Interaction-Predictor)
 
@@ -21,21 +21,6 @@ A **Graph Neural Network (GNN)** application designed to predict molecular prope
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### [Fake Schema Generator](https://github.com/rayvaverma/Fake-Schema-Generator)
-
-A **Schema Generation** tool that seamlessly transforms natural language queries into fully-structured database schemas complete with intuitive table and column names. Users can automatically populate these schemas with 100 rows of realistic synthetic data, streamlining the creation of mock databases for testing, development, and prototyping.
-
-**🔧 Technologies Used:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-10A37F?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
 
 ## 🌱 Current Focus
 
