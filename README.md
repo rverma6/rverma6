@@ -1,45 +1,38 @@
-# Hi there, I'm Rayva 👋
+# Hi there 👋
 
-![Banner](https://github.com/your-username/your-repo/blob/main/banner.png)
-![Avatar](https://github.com/your-username.png)
+I'm Rayva Verma, a Senior studying Statistics, Computer Science, and Math at the University of Illinois Urbana-Champaign. I like using tech to turn my random thoughts into tangible, useful projects!
 
-## 🚀 About Me
-I'm a **Software Engineer** specializing in **Full-Stack Development**. Passionate about building scalable applications and contributing to open-source projects.
+🌱 **Current Focus**: I’m currently researching casual machine learning under the supervision of Professor Christopher Kinson through the Department of Statistics. I'm  also working on 10xLabs, a student-run venture studio. 
 
-## 🛠️ Tech Stack
-<div style="display: flex; flex-wrap: wrap;">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-</div>
+🔗 **Learn more about me**: Visit [my personal website](your-website-link).
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+📬 **Reach out to me at**: [hi@rayvaverma.com](mailto:hi@rayvaverma.com)
 
-## 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+---
 
-## 📂 My Projects
-<a href="https://github.com/your-username/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/your-username/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=radical" />
-</a>
+## Languages & Tools
+### Languages I Know
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+---
 
-## 🌟 Fun Facts
-- 🌱 Currently learning **Rust** and **Go**.
-- 🚀 Love contributing to **open-source** projects.
-- 🎮 Avid gamer and technology enthusiast.
+## Tech I've Worked With
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo)
+---
 
-
-<!---
-rverma6/rverma6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact Me
+Feel free to reach out if you’d like to collaborate on projects or just have a chat!
