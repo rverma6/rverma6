@@ -62,8 +62,6 @@ A **Graph Neural Network (GNN)** application designed to predict molecular prope
 ## 📫 Let's Connect
 
 - 🌐 **Website**: [rayvaverma.com](https://rayvaverma.com)
-- 📧 **Email**: [hi@rayvaverma.com](mailto:hi@rayvaverma.com)
-- 💼 **LinkedIn**: [linkedin.com/in/rayvaverma](https://linkedin.com/in/rayvaverma)
 - 🐦 **Twitter**: [@rayvaverma](https://twitter.com/vermray)
 
 ---
