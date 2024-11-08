@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Rayva Verma
 
 
-I'm a Senior at the University of Illinois Urbana-Champaign, studying **Statistics**, **Computer Science**, and **Mathematics**. I leverage technology to transform innovative ideas into impactful projects!
+I'm a Senior at the University of Illinois Urbana-Champaign, studying **Statistics**, **Computer Science**, and **Mathematics**. I enjoy leveraging technology to transform my ideas into tangible projects.
 
 ---
 
