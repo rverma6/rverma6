@@ -12,7 +12,6 @@ I'm a Senior at the University of Illinois Urbana-Champaign, studying **Statisti
 
 A **Graph Neural Network (GNN)** application designed to predict molecular properties and interactions, accelerating drug discovery processes. By integrating chemistry domain knowledge with advanced deep learning architectures, this project aims to efficiently identify potential drug candidates.
 
-**🔧 Technologies Used:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -28,8 +27,6 @@ A **Graph Neural Network (GNN)** application designed to predict molecular prope
 - **10xLabs**: Contributing to a student-run venture studio, driving innovation and entrepreneurship.
 
 ---
-## 🛠️ Technologies & Tools
-
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
