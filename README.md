@@ -25,7 +25,6 @@
 <h3 align="center">Familiar Stacks</h3>
 
 <div align="center">
-    <a href="https://prathaminamdar.com">
-        <img src="https://skillicons.dev/icons?i=python,flask,mongodb,cpp,react,js,ts,androidstudio,firebase,kotlin,java,swift,arduino,docker,bash&theme=light" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=python,javascript,cpp,kotlin,haskell,react,flask,nodejs,express,nextjs,pytorch,postgresql,supabase,redis&theme=light" alt="My Skills">
     </a>
 </div>
