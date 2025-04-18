@@ -20,13 +20,6 @@ A **Graph Neural Network (GNN)** application designed to predict molecular prope
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 🌱 Current Focus
-
-- **Research**: Exploring causal machine learning under the guidance of Professor [Christopher Kinson](https://www.illinois.edu/) at the Department of Statistics.
-- **10xLabs**: Contributing to a student-run venture studio, driving innovation and entrepreneurship.
-
----
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
